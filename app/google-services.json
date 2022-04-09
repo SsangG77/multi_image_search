@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912818314319",
+    "project_id": "multi-image-search",
+    "storage_bucket": "multi-image-search.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912818314319:android:8a38b862c98cdb4b33de3a",
+        "android_client_info": {
+          "package_name": "com.sangjin.multi_image_search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912818314319-i4rfk5tji42so3m2b95tu0imhq2h97e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ZE_ER7HOtMjc5TAuYa2HAf6ugHbdBco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912818314319-i4rfk5tji42so3m2b95tu0imhq2h97e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
